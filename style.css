@@ -1,0 +1,10 @@
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+ }
+
+tr, td {
+
+    background-color: rgb(75, 116, 228);
+}
